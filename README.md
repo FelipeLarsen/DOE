@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DOE" src=".github/DOE2.PNG" width="250px"/>
+    <img alt="Doa sangue ! Doe Vida !" src=".github/doeLogo.png" width="250px"/>
 </h1>
 
 <h4 align="center">
