@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JS" src=".github/js.svg" width="250px"/>
+    <img alt="DOE" src=".github/DOE2.PNG" width="250px"/>
 </h1>
 
 <h4 align="center">
